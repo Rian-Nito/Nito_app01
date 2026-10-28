@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602710679076",
+    "project_id": "livros-76302",
+    "storage_bucket": "livros-76302.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602710679076:android:9d9ac19e2ebb23fdd902b1",
+        "android_client_info": {
+          "package_name": "com.example.nito_app01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxwfrHmvDU7_uaI6EFoa5Tfd8bBhF8F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
